@@ -1,0 +1,12 @@
+{
+    "names": [
+        "ironPlate",
+        "ironRod"
+    ],
+    "ironPlate": {
+        "name": "Iron Plate"
+    },
+    "ironRod": {
+        "name": "Iron Rod"
+    }
+}

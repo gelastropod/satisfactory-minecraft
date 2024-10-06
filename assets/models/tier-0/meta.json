@@ -1,0 +1,28 @@
+{
+    "names": [
+        "biomass",
+        "cable",
+        "concrete",
+        "reinforcedIronPlate",
+        "screw",
+        "wire"
+    ],
+    "biomass": {
+        "name": "Biomass"
+    },
+    "cable": {
+        "name": "Cable"
+    },
+    "concrete": {
+        "name": "Concrete"
+    },
+    "reinforcedIronPlate": {
+        "name": "Reinforced Iron Plate"
+    },
+    "screw": {
+        "name": "Screws"
+    },
+    "wire": {
+        "name": "Wire"
+    }
+}
