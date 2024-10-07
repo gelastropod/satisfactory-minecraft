@@ -5,7 +5,7 @@ A mod aiming to develop the game Satisfactory in Minecraft
 *NOTE: To view the changelog refer to the last section*
 
 Started work on the mod!  
-Begin designing assets (models and textures) for Tier 0 parts.
+Finished designing assets (models and textures) for Tier 0 to 2 parts.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;2. Features
 Currently, no features have been implemented, only assets have been made.
