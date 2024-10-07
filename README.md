@@ -48,7 +48,7 @@ The current file structure of this repository is as follows:
 #### Explanation
 **assets**: This directory contains all the models and textures used in the mod, organised into their respective directories. In each inner directory (**models** or **textures**), the files are organised into tiers, each with their own directory. In each of these directories, the file **meta.json** provides information about each of the files/directories in their directory.
 
-**mod**: *(not created yet)* This directory stored the mod files, as well as client- and server- specific files needed.
+**mod**: *(not created yet)* This directory stores the mod files, as well as client- and server- specific files needed.
 
 **README.md**: This file!
 
@@ -57,7 +57,8 @@ The current file structure of this repository is as follows:
 1. GameBoy8Bit: Asset creation
 2. gelastropod: Mod development
 
-Thanks Coffee Stain Studios for providing the idea with your game Satisfactory!
+Thanks Coffee Stain Studios for providing the idea with your game Satisfactory!  
+Go support them [here](https://www.satisfactorygame.com/)!
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;5. Changelog
 For the changelog, please go [here](https://gelastropod.github.io/satisfactory-minecraft/changelog.html) for the changelog.
