@@ -1,0 +1,2 @@
+# Satisfactory-minecraft changelog
+yay
