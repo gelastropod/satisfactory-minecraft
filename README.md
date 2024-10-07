@@ -1,3 +1,4 @@
+# Satisfactory-minecraft
 A mod aiming to develop the game Satisfactory in Minecraft
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;1. (Read me!) Current state of development (As of 7/10/24)
