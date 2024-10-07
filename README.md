@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Satisfactory-minecraft
 A mod aiming to develop the game Satisfactory in Minecraft
 
@@ -62,3 +63,8 @@ Go support them [here](https://www.satisfactorygame.com/)!
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;5. Changelog
 For the changelog, please go [here](https://gelastropod.github.io/satisfactory-minecraft/changelog.html) for the changelog.
+=======
+Satisfactory-minecraft, a mod aiming to develop the game Satisfactory in minecraft!
+
+Currently only contains asset files for tier-0 (unfinished)
+>>>>>>> 22feed5 (Changed readme)
