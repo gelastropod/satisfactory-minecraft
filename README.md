@@ -60,4 +60,4 @@ The current file structure of this repository is as follows:
 Thanks Coffee Stain Studios for providing the idea with your game Satisfactory!
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;5. Changelog
-For the changelog, please go [here](https://gelastropod.github.io/satisfactory-minecraft/changelog.md) for the changelog.
+For the changelog, please go [here](https://gelastropod.github.io/satisfactory-minecraft/changelog.html) for the changelog.
