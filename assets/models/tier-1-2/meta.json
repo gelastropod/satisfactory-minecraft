@@ -1,5 +1,24 @@
 {
     "names": [
-        
-    ]
+        "copperSheet",
+	"rotor",
+	"smartPlating",
+	"modularFrame",
+	"solidBiofuel"
+    ],
+    "copperSheet": {
+	"name": "Copper Sheet"
+    },
+    "rotor": {
+	"name": "Rotor"
+    },
+    "smartPlating": {
+	"name": "Smart Plating"
+    },
+    "modularFrame": {
+	"name": "Modular Frame"
+    },
+    "solidBiofuel": {
+	"name": "Solid Biofuel"
+    }
 }
